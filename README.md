@@ -12,4 +12,4 @@
 [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|:cake:|[Java :robot:](./LeetCode%20Solutions/Richest%20Customer%20Wealth.java)|0 ms|
 [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|:cake:|[Java :joy:](./LeetCode%20Solutions/Check%20if%20the%20Sentence%20Is%20Pangram.java)|7 ms|
 [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|:cake:|[Java :sushi:](./LeetCode%20Solutions/Build%20Array%20from%20Permutation.java)|1 ms|
-[1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|:cake:|[Java :cup_with_straw:](./LeetCode%20Solutions/Concatenation%20of%20Array.java)| 1 ms|
+|[1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|:cake:|[Java :cup_with_straw:](./LeetCode%20Solutions/Concatenation%20of%20Array.java)| 1 ms|
