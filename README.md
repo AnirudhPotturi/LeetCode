@@ -3,7 +3,6 @@
 | Program Number | Title | Difficulty | Solution | Runtime |
 |---| ----- | ----- | -------- | ------- |
 |13|[ Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|:cake:|[Java :alien:](./LeetCode%20Solutions/Roman%20To%20Integer.java)|3 ms|
-
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|:cake:|[Java :tired_face:](./LeetCode%20Solutions/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.java)|12 ms|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|:cake:|[Java :sweat_drops:](./LeetCode%20Solutions/Kids%20With%20the%20Greatest%20Number%20of%20Candies.java)|1 ms|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|:cake:|[Java :speak_no_evil:](./LeetCode%20Solutions/Shuffle%20the%20Array.java)|0 ms|
