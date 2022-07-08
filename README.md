@@ -3,6 +3,10 @@
 | Title | Difficulty | Solution | Runtime |
 | ----- | ----- | -------- | ------- |
 |[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|:cake:|[Java :alien:](./LeetCode%20Solutions/Roman%20To%20Integer.java)|3 ms|
+|[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|:cake:|[Java :frog:](./LeetCode%20Solutions/Flipping%20an%20Image.java)|1 ms|
+|[867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|:cake:|[Java :trollface:](./LeetCode%20Solutions/Transpose%20Matrix.java)|2 ms|
+|[1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|:cake:|[Java :facepunch:](./LeetCode%20Solutions/Cells%20with%20Odd%20Values%20in%20a%20Matrix.java)|2 ms|
+|[1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|:cake:|[Java :guardsman:](./LeetCode%20Solutions/Find%20Numbers%20with%20Even%20Number%20of%20Digits.java)|2 ms|
 |[1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|:cake:|[Java :tired_face:](./LeetCode%20Solutions/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.java)|12 ms|
 |[1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|:cake:|[Java :woozy_face:](./LeetCode%20Solutions/Create%20Target%20Array%20in%20the%20Given%20Order.java)|1 ms|
 |[1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|:cake:|[Java :sweat_drops:](./LeetCode%20Solutions/Kids%20With%20the%20Greatest%20Number%20of%20Candies.java)|1 ms|
